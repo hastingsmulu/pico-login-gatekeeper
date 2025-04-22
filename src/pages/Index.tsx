@@ -1,4 +1,6 @@
 
+import LoginForm from "@/components/LoginForm";
+
 const Index = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-slate-900 to-slate-800">
