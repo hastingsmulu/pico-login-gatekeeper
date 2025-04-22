@@ -59,6 +59,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+  
+![login screen](src/Screenshot 2025-04-22 173519.png)
 
 ## How can I deploy this project?
 
