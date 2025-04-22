@@ -93,7 +93,7 @@ const Dashboard = () => {
               <CardTitle className="text-white/90 text-xl font-medium">Environment</CardTitle>
               <ThermometerSun className="w-6 h-6 text-white/40" />
             </CardHeader>
-            <CardContent className="flex flex-col items-center gap-6">
+            <CardContent className="flex flex-row items-center justify-center gap-6">
               <CircleIndicator 
                 value={24} 
                 label="°C" 
