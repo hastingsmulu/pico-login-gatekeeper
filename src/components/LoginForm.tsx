@@ -1,5 +1,5 @@
-
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -10,10 +10,12 @@ import { LockKeyhole, Mail } from 'lucide-react';
 const LoginForm = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const navigate = useNavigate();
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     console.log('Login attempted with:', { email });
+    navigate('/dashboard');
   };
 
   return (
@@ -74,4 +76,3 @@ const LoginForm = () => {
 };
 
 export default LoginForm;
-
