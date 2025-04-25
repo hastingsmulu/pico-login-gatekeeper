@@ -60,7 +60,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
   
-![login screen](src/Screenshot 2025-04-22 173519.png)
+![login screen](Screenshot 2025-04-22 173519.png)
 
 ## How can I deploy this project?
 
