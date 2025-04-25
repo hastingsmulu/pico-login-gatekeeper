@@ -21,6 +21,7 @@ If you want to work locally using your own IDE, you can clone this repo and push
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
+![Screenshot 2025-04-22 173519](https://github.com/user-attachments/assets/4a52b404-14d2-47c3-9962-a5848154c165)
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
