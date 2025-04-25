@@ -61,7 +61,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
   
-!(Screenshot 2025-04-22 173519.png)
+![Screenshot 2025-04-22 173519](https://github.com/user-attachments/assets/4a52b404-14d2-47c3-9962-a5848154c165)
 
 ## How can I deploy this project?
 
